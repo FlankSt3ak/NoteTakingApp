@@ -1,3 +1,6 @@
+## Nama : Agus Ramadhani
+## NIM : 312410059
+
 # NoteTakingApp
 
 # Story Board
